@@ -2,5 +2,7 @@
     oishi-wofi
 </h3>
 
-![preview 1](img/1.png)
-![preview 2](img/2.png)
+<p align="center">
+    <img src="img/1.png" alt="preview 1">
+    <img src="img/2.png" alt="preview 2">
+</p>
