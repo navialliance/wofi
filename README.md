@@ -1,5 +1,5 @@
 <h3 align="center">
-    oishi-wofi
+    wofi
 </h3>
 
 <p align="center">
